@@ -1,0 +1,65 @@
+<link href="https://fonts.googleapis.com/css?family=muli" rel="stylesheet" type="text/css">
+<div class="container">
+.black-text {
+  color: #122428;
+}
+body {
+  background-color: #666667
+}
+ h2 {
+   font-size: 50px;
+    font-family: Lobster, Monospace;
+  }
+ h3 {
+   font-size: 25px;
+    font-family: Lobster, Monospace;
+  }
+ h4 {
+   font-size: 13px;
+    font-family: Lobster, Monospace;
+}
+    h5 {
+   font-size: 25px;
+    font-family: Lobster, Monospace;
+  }
+  p {
+    font-size: 16px;
+    font-family: Cormorant Garamond, Serif;
+  }
+.main-image {
+  width: 800px;
+}
+.thick-orange-border{
+  border-color: orange;
+  border-width: 7px;
+  border-style: solid;
+}
+.center-image {
+text-align:center;
+display:block;
+}    
+
+<h2 class= "black-text text-center">Mineral</h2>  
+<h3
+class = "text-center"   
+   > Mineral are an emo band formed in Houston, Texas in 1993.</h3>
+
+<center><img     src="https://consequenceofsound.files.wordpress.com/2014/08/mineral2_1000x666.jpg?quality=80&w=807" alt="A photo of Mineral c.2015" class = "main-image thick-orange-border"></center>
+
+<h4
+class = "text-center"   
+   > Scott McGarver (lead guitar,) Chris Simpson (vocals, guitar,) Jeremy Gomez (bass guitar,) Gabe Wiley (drums)</h4>
+  <p
+ <ul>
+   <li> Influenced themselves by Dinosaur Jr, Swerverdriver and Superchunk, they play a style of emo/indie rock that heavily influenced countless bands including Jimmy Eat World and New Found Glory.</li>
+   <li> Released their first 7' EP "Gloria" in 1994 and followed that with "February/M.D" in 1996.</li>
+  <li> Then released "The Power of Failing" album in January 1997, which was recorded at Music Lane Studios in Austin during 1996.</li>
+  <li> They also released a split EP with Jimmy Eat World and Sensfield in 1997 which contained the song "Crazy."</li>
+  <li> The band actually broke up after recording their second and final album "EndSerenading" which was released in August 1998.</li>
+  <li> The members went on to form other bands such as The Gloria Record and Imbroco, whilst Chris Simpson released solo work under the name Zookeeper.</li>
+  <li> In 2014, the band announced they were getting back together for a short run of shows in the USA. They then decided to do a European tour (their first ever) in 2015 along with shows in Japan and Australia.</li>
+  <li> I was lucky enough to see Mineral play live in Manchester, UK on 12th February 2015, which they played my favourite song, ironically called "February!"</li>
+  <li> As of today, the band are still active but have no plans to release new music. The UK based label Xtra Mile Recordings re-released both albums on 12' vinyl and the band themselves are planning "something" for their 25th anniversary.</li>
+  </p>
+  <h5>You can find out more about Mineral on  <a href="http://www.officialmineral.com/" target="_blank">their website.</a></h5>
+</div>
